@@ -8,6 +8,8 @@
     "serve": "vitepress serve docs"
   },
   "devDependencies": {
+    "@vitejs/plugin-vue-jsx": "^1.1.7",
+    "sass": "^1.37.5",
     "vitepress": "^0.16.1"
   }
 }
