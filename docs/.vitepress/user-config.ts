@@ -1,0 +1,1 @@
+import { UserConfig } from 'vitepress'
